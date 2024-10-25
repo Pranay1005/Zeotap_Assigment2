@@ -1,8 +1,10 @@
 # Weather Data Retrieval and Analysis System
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
+<img width="960" alt="image" src="https://github.com/Pranay1005/Zeotap_Assigment2/blob/e7e7fff23e25b4a3a40b37e1f7f09e4abb8db36a/ScreenShots/Screenshot%20(201).png">
 
-Hosted link: https://santosh-2003-sahoo.github.io/App2-Weather-app/
+<img width="960" alt="image" src="https://github.com/Pranay1005/Zeotap_Assigment2/blob/e7e7fff23e25b4a3a40b37e1f7f09e4abb8db36a/ScreenShots/2.gif">
+
+
 
 
 ## Overview
@@ -38,7 +40,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone "https://github.com/Santosh-2003-sahoo/App2-Weather-app.git"
+   git clone "https://github.com/Pranay1005/Zeotap_Assigment2.git"
    cd App2-Weather-app
    ```
 
@@ -53,11 +55,10 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
    ```bash
    npm install http-server -g
-   http-server -p 8080**
+   http-server -p 3000**
    ```
 
 ## Running Tests
 
 You can add and run tests to ensure everything is working correctly.
-```
-created bt: santosh sahoo
+
